@@ -14,7 +14,6 @@ jobs:
       - uses: 100-days-of-Python/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.waka_76302c8c-48a3-4e60-9ac2-ddd6b203daea }}
-          GH_TOKEN: ${{ secrets.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 }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
           BLOCKS: ❤
