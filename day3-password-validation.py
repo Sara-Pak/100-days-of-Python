@@ -5,7 +5,6 @@ print('''
 ╩  ┴ ┴└─┘└─┘└┴┘└─┘┴└──┴┘   ╚╝ ┴ ┴┴─┘┴─┴┘┴ ┴ ┴ └─┘┴└─o
 ''')
 
-
 def validate_pwd(password):
     symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
     val = True
@@ -37,7 +36,6 @@ def validate_pwd(password):
         return val
 
 
-# Main method
 def main():
     password = 'Y00feeC0de$!'
 
@@ -47,6 +45,5 @@ def main():
         print("Invalid Password !!")
 
 
-# Driver Code
 if __name__ == '__main__':
     main()
