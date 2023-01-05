@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 4, 2023
+
+**Today's Progress**: Created a validator for passwords. The program will validate the password that I've made up to be either validated or not in regards to the restrictions or rules on creating a password. Such as the password must contain one upper case letter.
+
+**Thoughts:** This is not exactly how I wanted to create this program. I originally wanted to create a method that would validate the user's input of the password and respond whether or not the password is validated. Perhaps even add another step into specifying what would validate the password. Due to a 1-hour commitment, I have not given this enough time to plan or create a flowchart to follow these scenarios. I'm hoping that I will have more time tomorrow to possible create another program that would combine these last 2 days, including the additional suggestions I've mentioned.
+
+**Link to work:** [Password validator](https://github.com/Sara-Pak/100-days-of-Python/blob/master/day3-password-validation.py)
+
 ### Day 2: January 3, 2023
 
 **Today's Progress**: Created a password generator that allows the user to determine how many characters, numbers, and special characters used in the password generator.
