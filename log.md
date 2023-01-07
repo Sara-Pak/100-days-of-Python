@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: January 6, 2023
+
+**Today's Progress**: Today, I created a converter that takes a pdf into mp3. I decided to follow a tutorial today, however, the code is not fully correct in the sense that it will only convert a single page into an audio form as there is no use of concatenation if there are more than one page.
+
+**Thoughts:** I am not sure how useful this program is but wanted to learn something relatively easily and new at the same time.
+
+**Link to work:** [PDF to MP3 Converter](https://github.com/Sara-Pak/100-days-of-Python/blob/master/day5-pdf-to-audio-file-converter.py)
+
+### Day 4: January 5, 2023
+
+**Today's Progress**: Tonight,  I created a calulator that specifically calculates how many cans of paint would cover at the given input by the user. 
+
+**Thoughts:** Today I am physically exhausted from work today, that I literally was struggling to keep awake and forgot numerous times that there was a hot cup of tea waiting for me for this reason. Days like this is challenging to keep a sharp mind in programming and perhaps on days like this to at least follow a new tutorial, something that may learn something and change things up than the norm. 
+
+**Link to work:** [Surface Area Calculator](https://github.com/Sara-Pak/100-days-of-Python/blob/master/day4-calculator.py)
+
 ### Day 3: January 4, 2023
 
 **Today's Progress**: Created a validator for passwords. The program will validate the password that I've made up to be either validated or not in regards to the restrictions or rules on creating a password. Such as the password must contain one upper case letter.
