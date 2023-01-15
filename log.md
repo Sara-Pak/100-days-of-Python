@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 8: January 14, 2023
+
+**Today's Progress**: I never finished day 8 on converting a YouTube video into a MP3. Today, I've learned that the path was not set in the output of the mp3 file. After correcting this, my program worked perfectly. 
+
+**Thoughts:** I didn't think starting a daily challenge during the cold seasons I would be too sick or lethargic to code but it that was a challenge of its own. I am about a week behind in this challenge but better late than never. 
+
+**Link to work:** [YouTube MP3 Converter](https://github.com/Sara-Pak/100-days-of-Python/blob/master/day8-youtube-mp3-converter.py)
+
 ### Day 6: January 7, 2023
 
 **Today's Progress**: Today, I created a function that allows the user to send an email. It is still a working progress.
