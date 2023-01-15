@@ -1,5 +1,5 @@
 # 1 ->need to import the pytube and os_sys library
-# 2 ->allow input from user providing youtube link
+# 2 ->allow input from user providing YouTube link
 # 3 ->create a filter that only extracts the audio from video link
 # 4 ->create a path for the audio file, by using the os_sys module
 # 5 ->convert the audio into a mp3 file format.
@@ -19,7 +19,7 @@ print("Enter the location for file (leave blank for current location)")
 location = str(input(">> ")) or '.'
 
 # download the file
-dl_file = video.download(path=location)
+dl_file = video.download(output_path=location)
 
 # save the file
 base, ext = os.path.splitext(dl_file)
