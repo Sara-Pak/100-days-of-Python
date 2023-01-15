@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
+### Day 6: January 7, 2023
 
+**Today's Progress**: Today, I created a function that allows the user to send an email. It is still a working progress.
+
+**Thoughts:** realizing the challenges of coding a solid hour each day in addition to working 10=hr shift and taking Google python course. Though, I may not have the energy by the end of the day. I am trying to stay committed.
+
+**Link to work:** 
 
 ### Day 5: January 6, 2023
 
