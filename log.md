@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+
+### Day 9: January 24, 2023
+
+**Today's Progress**: Created a simple randomizer program that generates a number upon the user's input. 
+
+**Thoughts:** took a short break from creating programs to follow a python course. As I am still going through the course, I wanted to do something actively and
+
+**Link to work:** [Simple Dice Roll program ](https://github.com/Sara-Pak/100-days-of-Python/blob/master/day9-dice-roll.py)
+
+
 ### Day 8: January 14, 2023
 
 **Today's Progress**: I never finished day 8 on converting a YouTube video into a MP3. Today, I've learned that the path was not set in the output of the mp3 file. After correcting this, my program worked perfectly. 
